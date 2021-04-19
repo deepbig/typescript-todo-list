@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Sample Todo list App using Typescript with Test Driven Development Methodology
+
+This Todo list app is to practice typescript and TDD methodology.
+
+## Test Cases
+
+Here are the user senario to create test cases:
+
+1. TodoForm: a form should provide a input field and a button to create doto list.
+
+2. TodoItem: each todo item should be displayed after a user create one. Todo object will be delivered from the parent component (TodoList) through props. Each item should have a button to delete. Also, the text field should be stakethrough when a user click the text field.
+
+3. TodoList: This component should display an array of todoItem.
+
+4. TodoApp: root component contains all child components.
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -43,4 +59,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://reactjs.org/). -->
