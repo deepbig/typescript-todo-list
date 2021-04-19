@@ -6,13 +6,13 @@ This Todo list app is to practice typescript and TDD methodology.
 
 Here are the user senario to create test cases:
 
-1. TodoForm: a form should provide a input field and a button to create doto list.
+1. `TodoForm`: a form should provide a input field and a button to create doto list.
 
-2. TodoItem: each todo item should be displayed after a user create one. Todo object will be delivered from the parent component (TodoList) through props. Each item should have a button to delete. Also, the text field should be stakethrough when a user click the text field.
+2. `TodoItem`: each todo item should be displayed after a user create one. Todo object will be delivered from the parent component (TodoList) through props. Each item should have a button to delete. Also, the text field should be stakethrough when a user click the text field.
 
-3. TodoList: This component should display an array of todoItem.
+3. `TodoList`: This component should display an array of todoItem.
 
-4. TodoApp: root component contains all child components.
+4. `TodoApp`: root component contains all child components.
 
 <!-- # Getting Started with Create React App
 
